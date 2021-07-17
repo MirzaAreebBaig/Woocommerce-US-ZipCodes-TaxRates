@@ -1,6 +1,6 @@
 # Woocommerce-US-ZipCodes-TaxRates
 Woocommerce Sales Tax Rates According To United States Of America Zip Codes
-This file consists of 39633 Zip Codes & Their Taxes taken from Avalara & Combined to make a import file in Woocommerce
+This file consists of <strong>39633</strong> Zip Codes & Their Taxes taken from Avalara & Combined to make a import file in Woocommerce
 
 To Import File
 Go to Woocommerce-> Settings-> Tax-> Standard Rates-> Import CSV -> Once upload is finished you will get a notice "All Done!"<br>
